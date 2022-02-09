@@ -1,0 +1,25 @@
+name: # your name here!
+
+on:
+  # when should this run 🤔?
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest # Linux FTW!
+
+    steps:
+      - uses: actions/checkout@v2
+      ###################
+      # EXAMPLE STEP
+      ###################
+      # - name: name
+      #   uses: (external action)
+      #
+      #   - OR -
+      #
+      # - name: name
+      #   run: (command)
+
+      # How many steps do you need and what should they be?
+      # What's the best way to split them up to be efficient?
