@@ -8,6 +8,6 @@ int main() {
 
   cout << "Learn more:" << endl
        << "1. https://github.com/features/actions" << endl
-       << "https://woodpecker-ci.org/"
-       << "https://www.redhat.com/en/topics/devops/what-is-ci-cd" << endl;
+       << "2. https://woodpecker-ci.org/" << endl
+       << "3. https://www.redhat.com/en/topics/devops/what-is-ci-cd" << endl;
 }
