@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest # Linux FTW!
 
     steps:
+  
       - uses: actions/checkout@v4
       ###################
       # EXAMPLE STEP
@@ -22,7 +23,7 @@ jobs:
       #   - OR -
       #
       # - name: name
-      #   run: (command)
+      #   run: (main.main())
 
       # feel free to play around with names and other things
       # to see how they affect the UI on GitHub
