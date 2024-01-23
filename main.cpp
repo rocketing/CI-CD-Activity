@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  run main.main();
+  
   // feel free to change this message to whatever you want!
   cout << "Congratulations! If you're seeing this, you've (hopefully) set up a "
           "CI/CD system which builds this C++ code and releases it!"
