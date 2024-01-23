@@ -1,4 +1,4 @@
-name: # your name here!
+name: # {your name}-test or some other name that describes the workflow
 
 on:
   # when should this run 🤔?
@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest # Linux FTW!
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       ###################
       # EXAMPLE STEP
       ###################
