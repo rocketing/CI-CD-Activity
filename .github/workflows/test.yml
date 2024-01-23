@@ -1,7 +1,10 @@
 name: # {your name}-test or some other name that describes the workflow
+      # generally the name corresponds to the name of the file, but it can
+      # always be different.
 
 on:
   # when should this run 🤔?
+  # use the docs to figure out how to trigger a workflow
 
 jobs:
   build:
@@ -21,5 +24,9 @@ jobs:
       # - name: name
       #   run: (command)
 
-      # How many steps do you need and what should they be?
-      # What's the best way to split them up to be efficient?
+      # feel free to play around with names and other things
+      # to see how they affect the UI on GitHub
+
+      # how many steps do you need and what should they be?
+      # what's the best way to split them up to be efficient?
+      
