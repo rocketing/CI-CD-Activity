@@ -23,7 +23,7 @@ jobs:
       #   - OR -
       #
       # - name: name
-      #   run: (main.main())
+      #   run: (g++ [main.cpp] -o [test.yml])
 
       # feel free to play around with names and other things
       # to see how they affect the UI on GitHub
